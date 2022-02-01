@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything :)**
 
-- 📫 How to reach me **021neb49@sxc.edu.np**
+- 📫 How to reach me **021neb459@sxc.edu.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
