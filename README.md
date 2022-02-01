@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sirshak Bohara</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
+ - **I am currently developing skills & working on many ideas**
+
 - 🔭 I’m currently working on **Many projects**
 
 - 🌱 I’m currently learning **HTML & CSS**
