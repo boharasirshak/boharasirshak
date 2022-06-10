@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML & CSS**
 
-- 💬 Ask me about **Anything :)**
+- 💬 Ask me about **Python & NodeJs :)**
 
 - 📫 How to reach me **021neb459@sxc.edu.np**
 
