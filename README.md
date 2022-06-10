@@ -12,7 +12,7 @@
 - 📫 How to reach me **021neb459@sxc.edu.np**
 
 <h3>I am also on:</h3>
-<script src="https://tryhackme.com/badge/1137343"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/GoldenBullet.png" alt="TryHackMe">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
