@@ -3,9 +3,7 @@
 
  - **I am currently developing skills & working on many ideas**
 
-- 🔭 I’m currently working on **Many projects**
-
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 💬 Ask me about **Python & NodeJs :)**
 
