@@ -3,7 +3,7 @@
 
  - **I am currently developing skills & working on many ideas**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Data Structures**
 
 - 💬 Ask me about **Python & NodeJs :)**
 
