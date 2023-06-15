@@ -3,22 +3,11 @@
 
  - **I am currently developing skills & working on many ideas**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **ASP DotNet**
 
-- 💬 Ask me about **Python & NodeJs :)**
+- 💬 Ask me about **Python, NodeJs and C# :)**
 
-- 📫 How to reach me **021neb459@sxc.edu.np**
-
-<h3>I am also on:</h3>
-<h4>
-    <a href="https://tryhackme.com/p/GoldenBullet" target="_blank">TryHackMe</a>
-</h4>
-<img
-    src="https://tryhackme-badges.s3.amazonaws.com/GoldenBullet.png"
-    alt="TryHackMe"
-/>
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+- 📫 How to reach me **boharasirshak101@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
