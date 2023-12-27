@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnav Chapagain</h1>
+<h1 align="center">Hi 👋, I'm Arnap Chapagain</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
  - **I am currently developing skills & working on many ideas**
