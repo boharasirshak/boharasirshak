@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sirshak Bohara</h1>
+<h1 align="center">Hi 👋, I'm Arnav Chapagain</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
  - **I am currently developing skills & working on many ideas**
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, NodeJs and C# :)**
 
-- 📫 How to reach me **boharasirshak101@gmail.com**
+- 📫 How to reach me **chapagainarnap@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
