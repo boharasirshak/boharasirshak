@@ -3,7 +3,7 @@
 
  - **I am currently developing skills & working on many ideas**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Aritificial Intelligence & Data Scructures**
 
 - 💬 Ask me about **Python, NodeJs and C# :)**
 
