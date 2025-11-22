@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sirshak Bohara</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">A friendly developer from Nepal based on USA</h3>
 
  - **I am currently developing skills & working on many ideas**
 
-- 🌱 I’m currently learning **Aritificial Intelligence & Data Scructures**
+- 🌱 I’m currently learning **AI and DSA**
 
-- 💬 Ask me about **Python, NodeJs and C# :)**
+- 💬 I'm into **Python, JavaSccript/TypeScript and C# :)**
 
 - 📫 How to reach me **boharasirshak101@gmail.com**
 
